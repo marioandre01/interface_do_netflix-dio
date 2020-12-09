@@ -33,8 +33,6 @@ Na vitrine em formato de carrossel está inserido dez séries, onde é mostrado 
 
 No seu desenvolvimento se usou HTML o organizando de forma semântica. CSS onde se aprendeu truques de classe de "container" ou também conhecido como classe "wrapper". Utilizou-se também o flexbox para posicionar os elementos em tela. Se aprendeu e utilizou a usar ícones na página pegando eles pela internet usando o site [fontawesome](https://fontawesome.com/), onde foi utilizado o ícone de "play" no botão "ASSISTIR FILME" e o ícone de "info" no botão "MAIS INFORMAÇÕES". Para fazer a vitrine em formato de carrossel se viu e usou o plugin jquery [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/) em seu modelo "basic". Se aprendeu e utilizou um pouco sobre responsividade para adaptar a tela em aparelhos com telas menores como tablets e smartphones, não deixando a página com uma aparência estranha nesses aparelhos. E se aprendeu que na construção de páginas é recomendado consultar sites de exemplo como guia. 
 
-
-
 ## 📋 Tecnologias
 
 O projeto foi desenvolvido com as seguintes tecnologias:
@@ -88,7 +86,7 @@ Para contribuir com esse projeto faça os seguintes passos:
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENCE](./LICENCE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 
 
